@@ -1,13 +1,12 @@
 ### Hi there 👋
+**Aleksandr Stebakow**  I am a Data Analyst ML and QA testing from Russia, Moscow.
+
 <h2 align="left">
  <abc>
   <d>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2>
-
-
-**AleksandrMos/AleksandrMos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -31,9 +30,8 @@ Here are some ideas to get you started:
 <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="react" width="100" height="100"/> </a>
 <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="gatsby" width="100" height="100"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="nodejs" width="100" height="100"/> </a>
-  
 </p>
-
+<h2 align="left"></h2>
           
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=default)
